@@ -1,10 +1,3 @@
-### Hi there 👋 I'm Dave
-
-- 🔭  I’m currently working on Family Promise Service Tracker. An iPad first application to log field services to the homeless and homeless at-risk.
-- 🌱  I’m currently learning solidity
-- 📫  How to reach me: [Twitter](https://twitter.com/daveydavejr) | [Email](mailto:dpdwight@gmail.com)
-
-
 <h1 align="center">Hey there 👋, I'm Dave</h1>
 <h3 align="center"> A Full Stack Engineer with experience in business ops, analytics, and leadership</h3>
 
@@ -32,10 +25,3 @@
 <a href="https://twitter.com/daveydavejr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daveydavejr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/davedwight/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davedwight/" height="30" width="40" /></a>
 </p>
-
-
-## Connect with me:
-
-[<img align="left" style="margin-left: 1.5rem" alt="Dave | LinkedIn" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e0c08558d85cb4365c3a865fde306916e58c542e/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/davedwight/
