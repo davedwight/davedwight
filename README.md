@@ -43,7 +43,7 @@
 </p>
 
 <a href="https://github.com/davedwight/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davedwight&show_icons=true&theme=dracula&hide=stars,issues" alt="davedwight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davedwight&show_icons=true&theme=dracula&hide=stars,issues&line_height=30" alt="davedwight" />
 </a>
 <a href="https://github.com/davedwight/" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davedwight&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davedwight" />
