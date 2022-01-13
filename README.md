@@ -30,7 +30,7 @@
 <br>
 
 <div align="left">
-🚀 &nbsp;I recently finished a project as a Backend Engineer on Family Promise Spokane's <a href="https://github.com/Lambda-School-Labs/family-promise-service-tracker-be-a">Service Tracker</a>, an iPad first map application<br>
+🚀 &nbsp;&nbsp;I recently finished a project as a Backend Engineer on Family Promise Spokane's <a href="https://github.com/Lambda-School-Labs/family-promise-service-tracker-be-a">Service Tracker</a>, an iPad first map application<br>
 🏋🏼‍♂️ &nbsp;&nbsp;&nbsp;I’m working on <a href="https://www.fitt.vercel.app/">Fitt</a>, a platform for personal trainers, as a side project. I'm using React, TailwindCSS, Node.js, and Postgres<br>
 ✍🏼 &nbsp;&nbsp;&nbsp;I update my <a href="https://www.davedwight.com/blog/">blog</a> regularly — check it out to see what I'm thinking about and how I approach solving problems<br>
 👨🏼‍🚀 &nbsp;&nbsp;&nbsp;View my <a href="https://www.davedwight.com/">portfolio</a> and <a href="https://www.davedwight.com/resume/">resume</a> to see more of my work<br>
