@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Dave</h1>
-<h3 align="center"> A Full Stack Engineer with experience in business ops, analytics, and leadership</h3>
+<h3 align="center"> Full Stack Engineer with experience in business ops, analytics, and leadership</h3>
 
 <div align="center" style="margin:100px 0 0 0;">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
