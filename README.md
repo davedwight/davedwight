@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="swagger" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 <div>
@@ -32,7 +33,7 @@
 <div align="left">
 🚀 &nbsp;&nbsp;I recently finished a project as a Backend Engineer on Family Promise Spokane's <a href="https://github.com/Lambda-School-Labs/family-promise-service-tracker-be-a">Service Tracker</a>, an iPad first map application<br>
 🏋🏼‍♂️ &nbsp;&nbsp;&nbsp;I’m working on <a href="https://www.fitt.vercel.app/">Fitt</a>, a platform for personal trainers, as a side project. I'm using React, TailwindCSS, Node.js, and Postgres<br>
-✍🏼 &nbsp;&nbsp;&nbsp;I update my <a href="https://www.davedwight.com/blog/">blog</a> regularly — check it out to see what I'm thinking about and how I approach solving problems<br>
+<!-- ✍🏼 &nbsp;&nbsp;&nbsp;I update my <a href="https://www.davedwight.com/blog/">blog</a> regularly — check it out to see what I'm thinking about and how I approach solving problems<br> -->
 👨🏼‍🚀 &nbsp;&nbsp;&nbsp;View my <a href="https://www.davedwight.com/">portfolio</a> and <a href="https://www.davedwight.com/resume/">resume</a> to see more of my work<br>
 </div>
 
