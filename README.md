@@ -32,7 +32,7 @@
 <br>
 
 <div align="left">
-🚀 &nbsp;&nbsp;I'm a software engineer at <a href="https://www.captechconsulting.com/">CapTech</a>, a software consulting firm.
+🚀 &nbsp;&nbsp;I'm a software engineer at <a href="https://www.captechconsulting.com/">CapTech</a>, a software consulting firm.<br>
 🏋🏼‍♂️ &nbsp;&nbsp;&nbsp;On the side, I’m working on <a href="http://www.overunder.online">Over / Under</a>, a web app to bet on stocks with friends. I'm using React, NodeJS, and Postgres.<br>
 <!-- ✍🏼 &nbsp;&nbsp;&nbsp;I update my <a href="https://www.davedwight.com/blog/">blog</a> regularly — check it out to see what I'm thinking about and how I approach solving problems<br> -->
 👨🏼‍🚀 &nbsp;&nbsp;&nbsp;View my <a href="https://www.davedwight.com/">portfolio</a> and <a href="https://www.davedwight.com/resume/">resume</a><br>
