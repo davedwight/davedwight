@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Dave</h1>
+<h1 align="center">Dave Dwight</h1>
 <h3 align="center"> Full Stack Engineer with experience in business ops, analytics, and leadership</h3>
 
 <div align="center" style="margin:100px 0 0 0;">
