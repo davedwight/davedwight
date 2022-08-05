@@ -1,7 +1,14 @@
-<h1 align="center">Dave Dwight</h1>
-<h3 align="center"> Full Stack Engineer with experience in business ops, analytics, and leadership</h3>
+<div align="left">
+• software engineer at <a href="https://www.captechconsulting.com/">captech</a><br>
+• working on <a href="http://www.overunder.online">over / under</a><br>
+• <a href="https://www.davedwight.com/">portfolio</a><br>
+• <a href="https://www.davedwight.com/resume/">resume</a>
+<!--blog <a href="https://www.davedwight.com/blog/">blog</a> regularly — check it out to see what I'm thinking about and how I approach solving problems<br> -->
+</div>
 
-<div align="center" style="margin:100px 0 0 0;">
+<br/>
+
+<div align="left" style="margin:100px 0 0 0;">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
@@ -27,27 +34,4 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-<div>
-  
-<br>
-
-<div align="left">
-🚀 &nbsp;&nbsp;I'm a software engineer at <a href="https://www.captechconsulting.com/">CapTech</a>, a software consulting firm.<br>
-🏋🏼‍♂️ &nbsp;&nbsp;&nbsp;On the side, I’m working on <a href="http://www.overunder.online">Over / Under</a>, a web app to bet on stocks with friends. I'm using React, NodeJS, and Postgres.<br>
-<!-- ✍🏼 &nbsp;&nbsp;&nbsp;I update my <a href="https://www.davedwight.com/blog/">blog</a> regularly — check it out to see what I'm thinking about and how I approach solving problems<br> -->
-👨🏼‍🚀 &nbsp;&nbsp;&nbsp;View my <a href="https://www.davedwight.com/">portfolio</a> and <a href="https://www.davedwight.com/resume/">resume</a>.<br>
-</div>
-
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/davedwight/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davedwight/" height="20" width="26.6" /></a>
-<a href="https://twitter.com/daveydavejr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daveydavejr" height="20" width="26.6" /></a>
-</p>
-
-<a href="https://github.com/davedwight/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davedwight&show_icons=true&theme=dracula&hide=stars,issues&line_height=30&hide_rank=true" alt="davedwight" />
-</a>
-<a href="https://github.com/davedwight/" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davedwight&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davedwight" />
-</a>
-  
+<div>  
