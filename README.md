@@ -1,6 +1,4 @@
 <div align="left">
-• software engineer at <a href="https://www.captechconsulting.com/">captech</a><br>
-• working on <a href="http://www.overunder.online">over / under</a><br>
 • <a href="https://www.davedwight.com/">portfolio</a><br>
 • <a href="https://www.davedwight.com/resume/">resume</a>
 <!--blog <a href="https://www.davedwight.com/blog/">blog</a> regularly — check it out to see what I'm thinking about and how I approach solving problems<br> -->
