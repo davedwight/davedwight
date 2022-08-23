@@ -1,11 +1,10 @@
 <div align="left">
-• <a href="https://www.davedwight.com/">portfolio</a><br>
-• <a href="https://www.davedwight.com/resume/">resume</a>
+• <a href="https://www.davedwight.com/"><portfolio></a><br>
 <!--blog <a href="https://www.davedwight.com/blog/">blog</a> regularly — check it out to see what I'm thinking about and how I approach solving problems<br> -->
 </div>
 
 <br/>
-
+<!--
 <div align="left" style="margin:100px 0 0 0;">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
@@ -33,3 +32,5 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 <div>  
+
+-->
